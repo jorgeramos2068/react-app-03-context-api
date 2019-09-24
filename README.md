@@ -1,3 +1,7 @@
+# React App - Context API
+
+React application that consumes an API and uses Context API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
